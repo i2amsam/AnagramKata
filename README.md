@@ -1,4 +1,4 @@
-# [Anagram Kata]
+# Anagram Kata
 This project is a solution for the Anagram code kata from:
 http://codekata.pragprog.com/2007/01/kata_six_anagra.html
 
